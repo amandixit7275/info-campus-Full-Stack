@@ -1,0 +1,99 @@
+    HTML - hypertext markup language
+         it has collections of pre-defined tags.
+         Html html tags are to create basic structure of webpages.
+         Html html tags use to collect input from user and use to display output to user.
+         The Html tags has limited property and values. due to this limitation css is required.
+
+   => How it works ? 
+    Responseive webpage = HTML(tags) + CSS (property & value) 
+
+
+  => Html tags ? 
+  <> Open tags
+  </> close tags
+
+
+ => Type of tag in html ?
+  1. input tags. - it use to collect input from user via web browser
+  2. output tag. - it use to display output to user via web browser.
+
+   
+=> The Structure of html tags? 
+
+1. dependent tag - Those html tags that open seperate and close separate 
+example - 
+<html> </html>
+<body> </body>
+<h1> </h1>
+
+
+2. independent tag
+example - those tags , that has only open  .
+<br>
+<img>
+<hr>
+
+Note: independent tag do not get supported by angular & react.
+
+3. self closing tag.: those tag which have open and close together
+example -
+<br/>
+<img/>
+<hr/>
+
+
+ => The behanviour of html tags ?
+ 1> block level tag - those html tags, that print statement in new line by  default.
+ 2> inline tag - those html tags,that print statement in the same line - side by side.
+
+ Using CSS 
+ -> Block level tag convert into inline 
+ this process is called responsive web design.
+  
+ 
+  HTML 
+    -> tags 
+       -> input
+       -> output
+    -> dependent tag = open + close
+    -> independent = only open
+    -> self closing =  open and close together
+
+
+    -> block level - if the tag print in new line
+    -> if the tag print in same line, side by side 
+
+    -----------------------------------------------------------------
+
+    => What are valid extension of html document ?
+    .html - Suitable for digital marketing (SEO)
+    .htm - 
+  ---------------------------------------------------------------------
+
+  <!DOCTYPE html> 
+     - it represent about the current document that it belong to HTML
+     - it introduce to browser that there may be html file tag also
+
+
+     => Structure of Html document ?
+      html start and end called document 
+      html document get devided into two section
+        1- head part 
+          - Two subsection
+            -> marketing section (digital marketing) / Analytics section
+            -> Libraray section
+              - CSS
+              - JavaScript
+        2- body part 
+          - input tags
+          - output tags
+---------------------------------------------------------------------------------
+
+h1 to h6 - It is called heading tag. 
+    - it create headline of the webpage. 
+    - use h1 min and max 1 time in each page for better digital marketing
+    - h2 to h6 limit is not defined 
+---------------------------------------------------------------------------------
+
+ - use p tag to display bulk text data (more than 1 line)
+ 
